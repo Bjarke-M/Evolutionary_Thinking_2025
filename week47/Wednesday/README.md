@@ -1,5 +1,3 @@
-[slides for today](Week47_Wed.pdf)
-
 Today we are going to discuss a paper exploring mutation rate variability and evolution in the vertebrate germline - please read it by Wednesday:
 
 Bergeron et al. [Evolution of the germline mutation rate across vertebrates](https://doi.org/10.1038/s41586-023-05752-y). Nature, 2023.
