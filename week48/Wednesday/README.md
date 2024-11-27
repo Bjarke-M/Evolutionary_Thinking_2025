@@ -4,4 +4,4 @@ Hallast et al. [Assembly of 43 human Y chromosomes reveals extensive complexity 
 
 You can find the questions for the paper discussion [here](https://docs.google.com/document/d/1aZhlwxF-VMT2GejAfm2kLuY9Iry0JCv9EUWxcYCtT9o/edit?usp=sharing).
 
-Some guideline answers to the questions will show up [here](https://github.com/cpantea/Evolutionary_Thinking_2023/blob/main/week48/Wednesday/Hallast_paper_answers.txt) after the TA session
+Some guideline answers to the questions will show up [here](answers.md) after the TA session
