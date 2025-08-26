@@ -3,9 +3,9 @@
 Exercises contents for 2024 Autumn Evolutionary Thinking course, Aarhus University
 
 
-Bjarke Meyer Pedersen bjarke@birc.au.dk
+Bjarke Pedersen bjarke@birc.au.dk
 
-Janek Sendrowski sendrowski.janek@birc.au.dk
+Emma Diepeveen emdi@birc.au.dk
 
 <br>
 
