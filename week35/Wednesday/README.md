@@ -1,4 +1,4 @@
-# Evolutionary-Thinking-2024 -- Week 35
+# Evolutionary-Thinking-2025 -- Week 35
 
 [Slides for today](https://github.com/Bjarke-M/Evolutionary_Thinking_2024/blob/main/week35/Wednesday/SESSION%201.pdf)
 
