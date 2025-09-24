@@ -1,6 +1,6 @@
 ---
 title: "ns_123"
-author: "Bjarkemp"
+author: ""
 format: html
       code-fold: true
 editor: visual
