@@ -2,7 +2,7 @@
 
 In this hand-in you will analyse some data and test for selection (Part 1) and you will also solve the theoretical exercises of the Nielsen and Slatkin's Book, Chapter 9 (Part 2). For Part 1 you can choose one out of two options: 
 
-Option A. You will analyse the [NORK](https://www.uniprot.org/uniprot/Q8LKZ1) data set for selection using the phylogenetic concepts and tools you have learned during the last TA session on Friday. Then you will have to answer some questions (below). Make sure to include detailed information on how the analysis were performed (for example, which substitution model was used, number of bootstraps, and so on). Example on how to calculate DN/DS in mega [Exercise](https://github.com/Jilong-Jerome/Evolutionary_Thinking_2022/tree/main/week41/Friday)
+Option A. You will analyse the [NORK](https://www.uniprot.org/uniprot/Q8LKZ1) data set for selection using the phylogenetic concepts and tools. Then you will have to answer some questions (below). Make sure to include detailed information on how the analysis were performed (for example, which substitution model was used, number of bootstraps, and so on). Example on how to calculate DN/DS in mega [Exercise](https://github.com/Jilong-Jerome/Evolutionary_Thinking_2022/tree/main/week41/Friday)
 
 Option B. You can formulate a hypothesis about selection (look below for examples), test your hypothesis and coment your results. 
 
