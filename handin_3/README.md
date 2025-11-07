@@ -1,7 +1,6 @@
 # Handin 3
 
 ## Work plan
-For handin 3, we will recreate the PCA results of the paper we discussed on Wednesday, week 47, and start working on a new dataset. The questions at the end of the document are your 3rd hand-in exercise to be hand in in brightspace by Sunday, 24:00(night) - Dec. 4th.
 
 ## Background (adapted from [link](https://github.com/stschiff/compvar-workshop-docs/tree/master/contents/02_pca))
 
